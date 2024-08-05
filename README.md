@@ -44,3 +44,16 @@ In Nov. 2022, I was awarded an [AUT Summer Research Award](https://github.com/ta
 #### Grades for AI-related courses
 [Artificial Intelligence (A), Deep Learning (A-), Intelligent Surveillance (A)](https://github.com/tallblacks/Certifications-and-Achievements/blob/fb4d802ce5a2faaef0c29aaab4f065a0a2915dfc/AUT/Transcript%20of%20Official%20Academic%20Record.png)
 
+## SAP
+
+#### SAP Customer Experience LIVE! 2018 Barcelona
+I had two speeches in SAP Customer Experience LIVE! 2018 Barcelona.
+
+- **Speech Topic: Discover How China Sports Lemon Is Powering Digital Transformation with SAP Commerce Cloud**\
+  [Speech Video](https://youtu.be/Z1Ilkk4sXV8) | [PPT](https://drive.google.com/file/d/186xZdr0XtnRLEMJTe3svSCsOw-AkeJm7/view?usp=sharing )
+
+- **Speech Topic: Power a Digital Transformation with the SAP Customer Experience Suite**\
+  [Speech Video](https://youtu.be/Q6Bi9I-8610) | [PPT](https://drive.google.com/file/d/1qTzIYwdoNRIMm_vSqBWWC2xz6ittEnZh/view?usp=sharing)
+
+
+
