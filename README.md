@@ -47,13 +47,14 @@ In Nov. 2022, I was awarded an [AUT Summer Research Award](https://github.com/ta
 ## SAP
 
 #### SAP Customer Experience LIVE! 2018 Barcelona
-I had two speeches in SAP Customer Experience LIVE! 2018 Barcelona.
+I had two speeches in SAP Customer Experience LIVE! 2018 Barcelona.\
+[A screenshot of my profile on the SAP official website](https://github.com/tallblacks/Certifications-and-Achievements/blob/fadeedc767d93fe4c2f30356739a2a5bf1cd8d6f/SAP/Speaker%20Detail.png) | [My attendee pass](https://github.com/tallblacks/Certifications-and-Achievements/blob/fadeedc767d93fe4c2f30356739a2a5bf1cd8d6f/SAP/SAP%20Attendee.jpeg)
 
 - **Speech Topic: Discover How China Sports Lemon Is Powering Digital Transformation with SAP Commerce Cloud**\
-  [Speech Video](https://youtu.be/Z1Ilkk4sXV8) | [PPT](https://drive.google.com/file/d/186xZdr0XtnRLEMJTe3svSCsOw-AkeJm7/view?usp=sharing )
+  [Speech Video](https://youtu.be/Z1Ilkk4sXV8) | [My PPT](https://drive.google.com/file/d/186xZdr0XtnRLEMJTe3svSCsOw-AkeJm7/view?usp=sharing ) | [The related slide in the official PPT](https://github.com/tallblacks/Certifications-and-Achievements/blob/fadeedc767d93fe4c2f30356739a2a5bf1cd8d6f/SAP/ID%2368437.png)
 
 - **Speech Topic: Power a Digital Transformation with the SAP Customer Experience Suite**\
-  [Speech Video](https://youtu.be/Q6Bi9I-8610) | [PPT](https://drive.google.com/file/d/1qTzIYwdoNRIMm_vSqBWWC2xz6ittEnZh/view?usp=sharing)
+  [Speech Video](https://youtu.be/Q6Bi9I-8610) | [My PPT](https://drive.google.com/file/d/1qTzIYwdoNRIMm_vSqBWWC2xz6ittEnZh/view?usp=sharing) | [The related slide in the official PPT](https://github.com/tallblacks/Certifications-and-Achievements/blob/fadeedc767d93fe4c2f30356739a2a5bf1cd8d6f/SAP/ID%23TBC.png)
 
 
 
