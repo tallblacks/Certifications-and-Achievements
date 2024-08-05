@@ -18,7 +18,7 @@ This section includes the various AWS certifications I have earned:
 
 ## Course Completion Certificates
 #### AWS Cloud Practitioner
-- **[AWS Cloud Practitioner Essentials](Course Completion Certificate/AWS Cloud Practitioner/AWS Cloud Practitioner Essentials.pdf)**
+- **[AWS Cloud Practitioner Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/73f7a081ba94b208c1d9d3fd95ddd10af867b788/Course%20Completion%20Certificate/AWS%20Cloud%20Practitioner/AWS%20Cloud%20Practitioner%20Essentials.pdf)**
 - **[AWS Technical Essentials]()**
 - **[Cloud Essentials Knowledge Badge Assessment]()**
 - **[Exam Prep Standard Course AWS Certified Cloud Practitioner (CLF-C02 - English)]()**
