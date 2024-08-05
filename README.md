@@ -17,3 +17,15 @@ This section includes the various AWS certifications I have earned:
 <a href="https://www.credly.com/badges/1902feac-8629-49a4-88dd-5165e5b66d9c/public_url)" target="_blank"><img src="https://github.com/tallblacks/Certifications-and-Achievements/blob/main/AWS%20Certified%20Badges/aws-cloud-quest-cloud-practitioner.png?raw=true" alt="AWS Cloud Quest: Cloud Practitioner" width="150" height="150"></a>
 
 ## Course Completion Certificates
+#### AWS Cloud Practitioner
+- **[]()**
+- **[]()**
+- **[]()**
+- **[]()**
+- **[]()**
+
+#### Amazon DynamoDB
+- **[]()**
+- **[]()**
+- **[]()**
+
