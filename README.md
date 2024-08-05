@@ -19,13 +19,13 @@ This section includes the various AWS certifications I have earned:
 ## Course Completion Certificates
 #### AWS Cloud Practitioner
 - **[AWS Cloud Practitioner Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/73f7a081ba94b208c1d9d3fd95ddd10af867b788/Course%20Completion%20Certificate/AWS%20Cloud%20Practitioner/AWS%20Cloud%20Practitioner%20Essentials.pdf)**
-- **[AWS Technical Essentials]()**
-- **[Cloud Essentials Knowledge Badge Assessment]()**
-- **[Exam Prep Standard Course AWS Certified Cloud Practitioner (CLF-C02 - English)]()**
-- **[Getting Started with AWS Cloud Essentials]()**
+- **[AWS Technical Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/AWS%20Cloud%20Practitioner/AWS%20Technical%20Essentials.pdf)**
+- **[Cloud Essentials Knowledge Badge Assessment](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/AWS%20Cloud%20Practitioner/Cloud%20Essentials%20Knowledge%20Badge%20Assessment.pdf)**
+- **[Exam Prep Standard Course AWS Certified Cloud Practitioner (CLF-C02 - English)](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/AWS%20Cloud%20Practitioner/Exam%20Prep%20Standard%20Course%20AWS%20Certified%20Cloud%20Practitioner%20(CLF-C02%20-%20English).pdf)**
+- **[Getting Started with AWS Cloud Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/AWS%20Cloud%20Practitioner/Getting%20Started%20with%20AWS%20Cloud%20Essentials.pdf)**
 
 #### Amazon DynamoDB
-- **[Developing with Amazon DynamoDB]()**
-- **[Amazon DynamoDB Service Primer]()**
-- **[Amazon DynamoDB Service Introduction]()**
+- **[Developing with Amazon DynamoDB](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/Amazon%20DynamoDB/Developing%20with%20Amazon%20DynamoDB.pdf)**
+- **[Amazon DynamoDB Service Primer](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/Amazon%20DynamoDB/Amazon%20DynamoDB%20Service%20Primer.pdf)**
+- **[Amazon DynamoDB Service Introduction](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/Amazon%20DynamoDB/Amazon%20DynamoDB%20Service%20Introduction.pdf)**
 
