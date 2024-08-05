@@ -18,14 +18,14 @@ This section includes the various AWS certifications I have earned:
 
 ## Course Completion Certificates
 #### AWS Cloud Practitioner
-- **[]()**
-- **[]()**
-- **[]()**
-- **[]()**
-- **[]()**
+- **[AWS Cloud Practitioner Essentials](Course Completion Certificate/AWS Cloud Practitioner/AWS Cloud Practitioner Essentials.pdf)**
+- **[AWS Technical Essentials]()**
+- **[Cloud Essentials Knowledge Badge Assessment]()**
+- **[Exam Prep Standard Course AWS Certified Cloud Practitioner (CLF-C02 - English)]()**
+- **[Getting Started with AWS Cloud Essentials]()**
 
 #### Amazon DynamoDB
-- **[]()**
-- **[]()**
-- **[]()**
+- **[Developing with Amazon DynamoDB]()**
+- **[Amazon DynamoDB Service Primer]()**
+- **[Amazon DynamoDB Service Introduction]()**
 
