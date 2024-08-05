@@ -22,6 +22,7 @@ Here, I have showcased my professional milestones, including AWS certifications 
 - **[AWS Technical Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/AWS%20Cloud%20Practitioner/AWS%20Technical%20Essentials.pdf)**
 - **[Cloud Essentials Knowledge Badge Assessment](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/AWS%20Cloud%20Practitioner/Cloud%20Essentials%20Knowledge%20Badge%20Assessment.pdf)**
 - **[Exam Prep Standard Course AWS Certified Cloud Practitioner (CLF-C02 - English)](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/AWS%20Cloud%20Practitioner/Exam%20Prep%20Standard%20Course%20AWS%20Certified%20Cloud%20Practitioner%20(CLF-C02%20-%20English).pdf)**
+- **[AWS Billing and Cost Management](https://github.com/tallblacks/Certifications-and-Achievements/blob/9c96543a777eef6d1b6929c9433f310959eee6b5/Course%20Completion%20Certificate/AWS%20Cloud%20Practitioner/AWS%20Billing%20and%20Cost%20Management.pdf)**
 - **[Getting Started with AWS Cloud Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/AWS%20Cloud%20Practitioner/Getting%20Started%20with%20AWS%20Cloud%20Essentials.pdf)**
 
 ###### Amazon DynamoDB
@@ -34,5 +35,12 @@ Here, I have showcased my professional milestones, including AWS certifications 
 <a href="https://github.com/tallblacks/Certifications-and-Achievements/blob/2265c76715bd5c86cb3253f65fb916f2dc13eab3/Certificate%20of%20Attendance%20from%20AWSome%20Day%20Online%20Conference/AWSome%20Day%20-%2020240711.png" target="_blank"><img src="https://github.com/tallblacks/Certifications-and-Achievements/blob/main/Certificate%20of%20Attendance%20from%20AWSome%20Day%20Online%20Conference/AWSome%20Day%20-%2020240711.png?raw=true" alt="AWSome Day Online Conference on July 11, 2024" width="100" height="100"></a>
 - **AWSome Day Online Conference on November 16, 2023**  
 <a href="https://github.com/tallblacks/Certifications-and-Achievements/blob/2265c76715bd5c86cb3253f65fb916f2dc13eab3/Certificate%20of%20Attendance%20from%20AWSome%20Day%20Online%20Conference/AWSome%20Day%20-%2020231116.png" target="_blank"><img src="https://github.com/tallblacks/Certifications-and-Achievements/blob/main/Certificate%20of%20Attendance%20from%20AWSome%20Day%20Online%20Conference/AWSome%20Day%20-%2020231116.png?raw=true" alt="AWSome Day Online Conference on July 11, 2024" width="100" height="100"></a>
+
+## Auckland University of Technology (AUT)
+
+#### AUT Summer Research Award
+In Nov. 2022, I was awarded an [AUT Summer Research Award](https://github.com/tallblacks/Certifications-and-Achievements/blob/9c96543a777eef6d1b6929c9433f310959eee6b5/AUT/AUT%20SUMMER%20RESEARCH%20AWARD.png) within the Faculty of Design & Creative Technologies at AUT.
+
+
 
 
