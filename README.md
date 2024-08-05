@@ -41,6 +41,6 @@ Here, I have showcased my professional milestones, including AWS certifications 
 #### AUT Summer Research Award
 In Nov. 2022, I was awarded an [AUT Summer Research Award](https://github.com/tallblacks/Certifications-and-Achievements/blob/9c96543a777eef6d1b6929c9433f310959eee6b5/AUT/AUT%20SUMMER%20RESEARCH%20AWARD.png) within the Faculty of Design & Creative Technologies at AUT.
 
-
-
+#### Grades for AI-related courses
+[Artificial Intelligence (A), Deep Learning (A-), Intelligent Surveillance (A)](https://github.com/tallblacks/Certifications-and-Achievements/blob/fb4d802ce5a2faaef0c29aaab4f065a0a2915dfc/AUT/Transcript%20of%20Official%20Academic%20Record.png)
 
