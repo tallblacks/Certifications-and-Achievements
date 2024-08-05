@@ -36,6 +36,9 @@ Here, I have showcased my professional milestones, including AWS certifications 
 - **AWSome Day Online Conference on November 16, 2023**  
 <a href="https://github.com/tallblacks/Certifications-and-Achievements/blob/2265c76715bd5c86cb3253f65fb916f2dc13eab3/Certificate%20of%20Attendance%20from%20AWSome%20Day%20Online%20Conference/AWSome%20Day%20-%2020231116.png" target="_blank"><img src="https://github.com/tallblacks/Certifications-and-Achievements/blob/main/Certificate%20of%20Attendance%20from%20AWSome%20Day%20Online%20Conference/AWSome%20Day%20-%2020231116.png?raw=true" alt="AWSome Day Online Conference on July 11, 2024" width="100" height="100"></a>
 
+#### AWS re:Invent 2017
+My company was invited by Amazon China to join the AWS Activate program. I attended the [AWS re:Invent 2017](https://github.com/tallblacks/Certifications-and-Achievements/blob/e0c201364a0bc39953b54266a76ed664e0ffbf50/AWS/AWS%20reInvent%202017.jpeg) in Vegas.
+
 ## Auckland University of Technology (AUT)
 
 #### AUT Summer Research Award
