@@ -10,7 +10,7 @@ This section includes the various AWS certifications I have earned:
 
 #### AWS Certified Cloud Practitioner
 - **AWS Certified Cloud Practitioner**  
-[![AWS Certified Cloud Practitioner](./AWS Certified Badges/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/7181be85-0b2f-47d8-ac58-54990e1c0bfb/public_url)
+[![AWS Certified Cloud Practitioner](https://github.com/tallblacks/Certifications-and-Achievements/blob/main/AWS%20Certified%20Badges/aws-certified-cloud-practitioner.png?raw=true)](https://www.credly.com/badges/7181be85-0b2f-47d8-ac58-54990e1c0bfb/public_url)
 - **AWS Knowledge: Cloud Essentials**  
 [![AWS Knowledge: Cloud Essentials](./AWS Certified Badges/aws-knowledge-cloud-essentials.png)](https://www.credly.com/badges/c82344da-1422-4363-b358-faf9771292ac/public_url)
 - **AWS Cloud Quest: Cloud Practitioner**  
