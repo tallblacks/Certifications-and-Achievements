@@ -18,7 +18,7 @@ Here, I have showcased my professional milestones, including AWS certifications 
 #### Course Completion Certificates
 
 ###### AWS Certified Cloud Practitioner
-- **[AWS Cloud Practitioner Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/73f7a081ba94b208c1d9d3fd95ddd10af867b788/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/AWS%20Cloud%20Practitioner%20Essentials.pdf)**
+- **[AWS Cloud Practitioner Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/0748e510ee244af7bc90ecafa5674a6d0b836181/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/Cloud%20Essentials%20Knowledge%20Badge%20Assessment.pdf)**
 - **[AWS Technical Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/AWS%20Technical%20Essentials.pdf)**
 - **[Cloud Essentials Knowledge Badge Assessment](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/Cloud%20Essentials%20Knowledge%20Badge%20Assessment.pdf)**
 - **[Exam Prep Standard Course AWS Certified Cloud Practitioner (CLF-C02 - English)](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/Exam%20Prep%20Standard%20Course%20AWS%20Certified%20Cloud%20Practitioner%20(CLF-C02%20-%20English).pdf)**
