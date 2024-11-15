@@ -7,7 +7,7 @@ Here, I have showcased my professional milestones, including AWS certifications 
 ## AWS
 
 #### AWS Certified Badges
-- **Well-Architected Proficient**
+- **Well-Architected Proficient**  
 <a href="https://www.credly.com/badges/ec73b788-aad7-4383-a124-1a2e30d0be0c/public_url)" target="_blank"><img src="https://github.com/tallblacks/Certifications-and-Achievements/blob/main/AWS%20Certified%20Badges/well-architected-proficient.png?raw=true" alt="Well-Architected Proficient" width="150" height="150"></a>
 
 - **AWS Certified AI Practitioner**  
@@ -27,7 +27,7 @@ Here, I have showcased my professional milestones, including AWS certifications 
 
 #### Course Completion Certificates
 ###### AWS Certified Solutions Architect - Associate
-- **[AWS Certified Solutions Architect - Associate](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/AWS%20Certified%20Solutions%20Architect%20-%20Associate/AWS%20Course%20Completion%20Certificate.pdf)**
+- **[AWS Well-Architected Foundations](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/AWS%20Certified%20Solutions%20Architect%20-%20Associate/AWS%20Well-Architected%20Foundations.pdf)**
 
 ###### Amazon DynamoDB
 - **[Developing with Amazon DynamoDB](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/Amazon%20DynamoDB/Developing%20with%20Amazon%20DynamoDB.pdf)**
