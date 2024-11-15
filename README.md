@@ -7,27 +7,32 @@ Here, I have showcased my professional milestones, including AWS certifications 
 ## AWS
 
 #### AWS Certified Badges
+- **Well-Architected Proficient**
+<a href="https://www.credly.com/badges/ec73b788-aad7-4383-a124-1a2e30d0be0c/public_url)" target="_blank"><img src="https://github.com/tallblacks/Certifications-and-Achievements/blob/main/AWS%20Certified%20Badges/well-architected-proficient.png?raw=true" alt="Well-Architected Proficient" width="150" height="150"></a>
 
-- **AWS Certified Cloud Practitioner**  
-<a href="https://www.credly.com/badges/7181be85-0b2f-47d8-ac58-54990e1c0bfb/public_url" target="_blank"><img src="https://github.com/tallblacks/Certifications-and-Achievements/blob/main/AWS%20Certified%20Badges/aws-certified-cloud-practitioner.png?raw=true" alt="AWS Certified Cloud Practitioner" width="150" height="150"></a>
-- **AWS Knowledge: Cloud Essentials**  
-<a href="https://www.credly.com/badges/c82344da-1422-4363-b358-faf9771292ac/public_url" target="_blank"><img src="https://github.com/tallblacks/Certifications-and-Achievements/blob/main/AWS%20Certified%20Badges/aws-knowledge-cloud-essentials.png?raw=true" alt="AWS Knowledge: Cloud Essentials" width="150" height="150"></a>
-- **AWS Cloud Quest: Cloud Practitioner**  
-<a href="https://www.credly.com/badges/1902feac-8629-49a4-88dd-5165e5b66d9c/public_url)" target="_blank"><img src="https://github.com/tallblacks/Certifications-and-Achievements/blob/main/AWS%20Certified%20Badges/aws-cloud-quest-cloud-practitioner.png?raw=true" alt="AWS Cloud Quest: Cloud Practitioner" width="150" height="150"></a>
 - **AWS Certified AI Practitioner**  
 <a href="https://www.credly.com/badges/15c1ef8d-9b84-4841-b56b-9e40f9863ede/public_url)" target="_blank"><img src="https://github.com/tallblacks/Certifications-and-Achievements/blob/main/AWS%20Certified%20Badges/aws-certified-ai-practitioner.png?raw=true" alt="AWS Certified AI Practitioner" width="150" height="150"></a>
+
 - **AWS Certified AI Practitioner Early Adopter**  
 <a href="https://www.credly.com/badges/2b95db9e-2928-4b6f-a583-6a64efa66b96/public_url)" target="_blank"><img src="https://github.com/tallblacks/Certifications-and-Achievements/blob/main/AWS%20Certified%20Badges/aws-certified-ai-practitioner-early-adopter.png?raw=true" alt="AWS Certified AI Practitioner Early Adopter" width="150" height="150"></a>
 
-#### Course Completion Certificates
+- **AWS Certified Cloud Practitioner**  
+<a href="https://www.credly.com/badges/7181be85-0b2f-47d8-ac58-54990e1c0bfb/public_url" target="_blank"><img src="https://github.com/tallblacks/Certifications-and-Achievements/blob/main/AWS%20Certified%20Badges/aws-certified-cloud-practitioner.png?raw=true" alt="AWS Certified Cloud Practitioner" width="150" height="150"></a>
 
-###### AWS Certified Cloud Practitioner
-- **[AWS Cloud Practitioner Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/942a680036c6c447b6f57d7fe9c0f19067d1c8bb/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/AWS%20Cloud%20Practitioner%20Essentials.pdf)**
-- **[AWS Technical Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/942a680036c6c447b6f57d7fe9c0f19067d1c8bb/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/AWS%20Technical%20Essentials.pdf)**
-- **[Cloud Essentials Knowledge Badge Assessment](https://github.com/tallblacks/Certifications-and-Achievements/blob/942a680036c6c447b6f57d7fe9c0f19067d1c8bb/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/Cloud%20Essentials%20Knowledge%20Badge%20Assessment.pdf)**
-- **[Exam Prep Standard Course AWS Certified Cloud Practitioner (CLF-C02 - English)](https://github.com/tallblacks/Certifications-and-Achievements/blob/942a680036c6c447b6f57d7fe9c0f19067d1c8bb/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/Exam%20Prep%20Standard%20Course%20AWS%20Certified%20Cloud%20Practitioner%20(CLF-C02%20-%20English).pdf)**
-- **[AWS Billing and Cost Management](https://github.com/tallblacks/Certifications-and-Achievements/blob/942a680036c6c447b6f57d7fe9c0f19067d1c8bb/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/AWS%20Billing%20and%20Cost%20Management.pdf)**
-- **[Getting Started with AWS Cloud Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/942a680036c6c447b6f57d7fe9c0f19067d1c8bb/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/Getting%20Started%20with%20AWS%20Cloud%20Essentials.pdf)**
+- **AWS Knowledge: Cloud Essentials**  
+<a href="https://www.credly.com/badges/c82344da-1422-4363-b358-faf9771292ac/public_url" target="_blank"><img src="https://github.com/tallblacks/Certifications-and-Achievements/blob/main/AWS%20Certified%20Badges/aws-knowledge-cloud-essentials.png?raw=true" alt="AWS Knowledge: Cloud Essentials" width="150" height="150"></a>
+
+- **AWS Cloud Quest: Cloud Practitioner**  
+<a href="https://www.credly.com/badges/1902feac-8629-49a4-88dd-5165e5b66d9c/public_url)" target="_blank"><img src="https://github.com/tallblacks/Certifications-and-Achievements/blob/main/AWS%20Certified%20Badges/aws-cloud-quest-cloud-practitioner.png?raw=true" alt="AWS Cloud Quest: Cloud Practitioner" width="150" height="150"></a>
+
+#### Course Completion Certificates
+###### AWS Certified Solutions Architect - Associate
+- **[AWS Certified Solutions Architect - Associate](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/AWS%20Certified%20Solutions%20Architect%20-%20Associate/AWS%20Course%20Completion%20Certificate.pdf)**
+
+###### Amazon DynamoDB
+- **[Developing with Amazon DynamoDB](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/Amazon%20DynamoDB/Developing%20with%20Amazon%20DynamoDB.pdf)**
+- **[Amazon DynamoDB Service Primer](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/Amazon%20DynamoDB/Amazon%20DynamoDB%20Service%20Primer.pdf)**
+- **[Amazon DynamoDB Service Introduction](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/Amazon%20DynamoDB/Amazon%20DynamoDB%20Service%20Introduction.pdf)**
 
 ###### AWS Certified AI Practitioner
 - **[Amazon Q Business Getting Started](https://github.com/tallblacks/Certifications-and-Achievements/blob/84a08c0b07513032c2a0f93683ce9e9fc70857b3/Course%20Completion%20Certificate/AWS%20Certified%20AI%20Practitioner/Amazon%20Q%20Business%20Getting%20Started.pdf)**
@@ -43,10 +48,13 @@ Here, I have showcased my professional milestones, including AWS certifications 
 - **[Responsible Artificial Intelligence Practices](https://github.com/tallblacks/Certifications-and-Achievements/blob/c1b894cdf85c9f6b4e139d6c5856423c64f1609f/Course%20Completion%20Certificate/AWS%20Certified%20AI%20Practitioner/Responsible%20Artificial%20Intelligence%20Practices.pdf)**
 - **Exam Prep Standard Course: AWS Certified AI Practitioner**
 
-###### Amazon DynamoDB
-- **[Developing with Amazon DynamoDB](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/Amazon%20DynamoDB/Developing%20with%20Amazon%20DynamoDB.pdf)**
-- **[Amazon DynamoDB Service Primer](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/Amazon%20DynamoDB/Amazon%20DynamoDB%20Service%20Primer.pdf)**
-- **[Amazon DynamoDB Service Introduction](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/Amazon%20DynamoDB/Amazon%20DynamoDB%20Service%20Introduction.pdf)**
+###### AWS Certified Cloud Practitioner
+- **[AWS Cloud Practitioner Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/942a680036c6c447b6f57d7fe9c0f19067d1c8bb/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/AWS%20Cloud%20Practitioner%20Essentials.pdf)**
+- **[AWS Technical Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/942a680036c6c447b6f57d7fe9c0f19067d1c8bb/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/AWS%20Technical%20Essentials.pdf)**
+- **[Cloud Essentials Knowledge Badge Assessment](https://github.com/tallblacks/Certifications-and-Achievements/blob/942a680036c6c447b6f57d7fe9c0f19067d1c8bb/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/Cloud%20Essentials%20Knowledge%20Badge%20Assessment.pdf)**
+- **[Exam Prep Standard Course AWS Certified Cloud Practitioner (CLF-C02 - English)](https://github.com/tallblacks/Certifications-and-Achievements/blob/942a680036c6c447b6f57d7fe9c0f19067d1c8bb/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/Exam%20Prep%20Standard%20Course%20AWS%20Certified%20Cloud%20Practitioner%20(CLF-C02%20-%20English).pdf)**
+- **[AWS Billing and Cost Management](https://github.com/tallblacks/Certifications-and-Achievements/blob/942a680036c6c447b6f57d7fe9c0f19067d1c8bb/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/AWS%20Billing%20and%20Cost%20Management.pdf)**
+- **[Getting Started with AWS Cloud Essentials](https://github.com/tallblacks/Certifications-and-Achievements/blob/942a680036c6c447b6f57d7fe9c0f19067d1c8bb/Course%20Completion%20Certificate/AWS%20Certified%20Cloud%20Practitioner/Getting%20Started%20with%20AWS%20Cloud%20Essentials.pdf)**
 
 #### Certificate of Attendance from AWSome Day Online Conference
 - **AWSome Day Online Conference on July 11, 2024**  
