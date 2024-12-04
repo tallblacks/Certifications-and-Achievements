@@ -28,7 +28,7 @@ Here, I have showcased my professional milestones, including AWS certifications 
 #### Course Completion Certificates
 ###### AWS Certified Solutions Architect - Associate
 - **[AWS Well-Architected Foundations](https://github.com/tallblacks/Certifications-and-Achievements/blob/2127a0afd1cd2c3f91fa8cd028ffb63a7b085380/Course%20Completion%20Certificate/AWS%20Certified%20Solutions%20Architect%20-%20Associate/AWS%20Well-Architected%20Foundations.pdf)**
-- **[Introduction to Building with AWS Databases]()**
+- **[Introduction to Building with AWS Databases](https://github.com/tallblacks/Certifications-and-Achievements/blob/2568360154ea87f988964d0c976979030fd39a49/Course%20Completion%20Certificate/AWS%20Certified%20Solutions%20Architect%20-%20Associate/Introduction%20to%20Building%20with%20AWS%20Databases.pdf)**
 
 ###### Amazon DynamoDB
 - **[Developing with Amazon DynamoDB](https://github.com/tallblacks/Certifications-and-Achievements/blob/658cda5a4b19ad8cde8d83202ab3f080e2c67c2a/Course%20Completion%20Certificate/Amazon%20DynamoDB/Developing%20with%20Amazon%20DynamoDB.pdf)**
